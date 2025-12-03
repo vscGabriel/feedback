@@ -81,20 +81,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- SPRING CLOUD FUNCTION -->
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-function-context</artifactId>
-			<version>4.1.2</version>
-		</dependency>
-
-		<!-- AZURE FUNCTION ADAPTER -->
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-function-adapter-azure</artifactId>
-			<version>4.1.2</version>
-		</dependency>
-
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
